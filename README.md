@@ -16,14 +16,14 @@ All in all, you could be deploying your live admin dashboard today.
 
 ## Features
 
-Easy to use component system. Components are plain HTML, CSS, JS.
-Folder based routing. 
-Robust authentication system. Plug in Firebase, Passport.js or Auth0, easily.
-Component-based testing and development. Render single components - work and iterate faster. Robust unit test/component test system set up.
-Data sources. Easily plug in your own data - from a database, file or remote server.
-Integration tests with cypress.
-Switch between dev and prod environments from the command line.
-Deploy from the command line to popular services.
+* Easy to use component system. Components are plain HTML, CSS, JS.
+* Folder based routing. 
+* Robust authentication system. Plug in Firebase, Passport.js or Auth0, easily.
+* Component-based testing and development. Render single components - work and iterate faster. Robust unit test/component test system set up.
+* Data sources. Easily plug in your own data - from a database, file or remote server.
+* Integration tests with cypress.
+* Switch between dev and prod environments from the command line.
+* Deploy from the command line to popular services.
 
 ### Running the project
 
