@@ -1,6 +1,8 @@
 # Easiest admin dashboard kit in the galaxy!
 
-Our aim is to simplify SPA development. This project is the simplest way to ship a fully working admin dashboard. The focus is on stack/architecture/design pattern, and not on aesthetics. The design is kept minimal in order to keep this simple, and make it easy to implement your own design.
+Our aim is to simplify SPA development - ship your admin dashboard today. 
+The focus is on stack/architecture/design pattern, and not on aesthetics. 
+The design is kept minimal in order to keep this simple, and make it easy to implement your own design.
 
 We're covering the design part as well - porting major admin frameworks to our admin dashboard starter tech. Here's a full list(the more stars, the more work we put in):
 
